@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "frog dev"
+  },
+  "dependencies": {
+    "frog": "latest",
+    "hono": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
